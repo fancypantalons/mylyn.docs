@@ -2,21 +2,20 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="org.eclipse.mylyn.wikitext.core.ant:jar" />
       <artifact name="org.eclipse.mylyn.wikitext.core:jar" />
       <artifact name="org.eclipse.mylyn.wikitext.mediawiki.core:jar" />
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9d97b4cf-a9e5-4bc7-8fd4-a0329e39b04f" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/artifacts/org_eclipse_mylyn_wikitext_core_ant_jar.xml" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/org.eclipse.mylyn.wikitext.mediawiki.core/src/org/eclipse/mylyn/internal/wikitext/mediawiki/core/token/PropertyReplacementToken.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/org.eclipse.mylyn.wikitext.mediawiki.core/src/org/eclipse/mylyn/internal/wikitext/mediawiki/core/token/UdfReplacementToken.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/org.eclipse.mylyn.wikitext.mediawiki.core/src/org/eclipse/mylyn/internal/wikitext/mediawiki/core/AbstractMediaWikiLanguage.java" afterPath="$PROJECT_DIR$/org.eclipse.mylyn.wikitext.mediawiki.core/src/org/eclipse/mylyn/internal/wikitext/mediawiki/core/AbstractMediaWikiLanguage.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/org.eclipse.mylyn.wikitext.mediawiki.core/src/org/eclipse/mylyn/internal/wikitext/mediawiki/core/token/HyperlinkExternalReplacementToken.java" afterPath="$PROJECT_DIR$/org.eclipse.mylyn.wikitext.mediawiki.core/src/org/eclipse/mylyn/internal/wikitext/mediawiki/core/token/HyperlinkExternalReplacementToken.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/org.eclipse.mylyn.wikitext.mediawiki.core/src/org/eclipse/mylyn/internal/wikitext/mediawiki/core/token/HyperlinkInternalReplacementToken.java" afterPath="$PROJECT_DIR$/org.eclipse.mylyn.wikitext.mediawiki.core/src/org/eclipse/mylyn/internal/wikitext/mediawiki/core/token/HyperlinkInternalReplacementToken.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/org.eclipse.mylyn.wikitext.mediawiki.core/src/org/eclipse/mylyn/internal/wikitext/mediawiki/core/tasks/ImageFetchingStrategy.java" afterPath="$PROJECT_DIR$/org.eclipse.mylyn.wikitext.mediawiki.core/src/org/eclipse/mylyn/internal/wikitext/mediawiki/core/tasks/ImageFetchingStrategy.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/org.eclipse.mylyn.wikitext.mediawiki.core/src/org/eclipse/mylyn/internal/wikitext/mediawiki/core/token/ImageReplacementToken.java" afterPath="$PROJECT_DIR$/org.eclipse.mylyn.wikitext.mediawiki.core/src/org/eclipse/mylyn/internal/wikitext/mediawiki/core/token/ImageReplacementToken.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/org.eclipse.mylyn.wikitext.mediawiki.core/src/org/eclipse/mylyn/wikitext/mediawiki/core/MediaWikiLanguage.java" afterPath="$PROJECT_DIR$/org.eclipse.mylyn.wikitext.mediawiki.core/src/org/eclipse/mylyn/wikitext/mediawiki/core/MediaWikiLanguage.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="org.eclipse.mylyn.docs-parent.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -82,10 +81,8 @@
       <file leaf-file-name="LinkDefinitionValidationRuleTest.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/org.eclipse.mylyn.wikitext.markdown.tests/src/org/eclipse/mylyn/internal/wikitext/markdown/tests/LinkDefinitionValidationRuleTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="21" selection-start="1235" selection-end="1235" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2451">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state line="31" column="21" selection-start="1235" selection-end="1235" vertical-scroll-proportion="0.0" vertical-offset="589" max-vertical-offset="2622">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -93,7 +90,7 @@
       <file leaf-file-name="WikiToDocTask.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/org.eclipse.mylyn.wikitext.mediawiki.core/src/org/eclipse/mylyn/internal/wikitext/mediawiki/core/tasks/WikiToDocTask.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1000" column="50" selection-start="32019" selection-end="32019" vertical-scroll-proportion="0.41976893" vertical-offset="16640" max-vertical-offset="18354">
+            <state line="1080" column="46" selection-start="33876" selection-end="33876" vertical-scroll-proportion="0.51732993" vertical-offset="17552" max-vertical-offset="18354">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -104,7 +101,7 @@
       <file leaf-file-name="SimplePhraseModifier.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/org.eclipse.mylyn.wikitext.confluence.core/src/org/eclipse/mylyn/internal/wikitext/confluence/core/phrase/SimplePhraseModifier.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="0" selection-start="920" selection-end="920" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="399">
+            <state line="24" column="0" selection-start="920" selection-end="920" vertical-scroll-proportion="0.0" vertical-offset="456" max-vertical-offset="570">
               <folding />
             </state>
           </provider>
@@ -162,7 +159,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -184,6 +180,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -235,6 +232,19 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -260,19 +270,6 @@
       <envs />
       <properties />
       <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -345,7 +342,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1438" height="871" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.114224136" sideWeight="0.60199004" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329602" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -398,11 +395,32 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/org.eclipse.mylyn.wikitext.tests/src/org/eclipse/mylyn/internal/wikitext/ui/editor/syntax/MarkupTokenScannerTest.java">
+    <entry file="file://$PROJECT_DIR$/org.eclipse.mylyn.wikitext.markdown.tests/src/org/eclipse/mylyn/internal/wikitext/markdown/tests/LinkDefinitionValidationRuleTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="29" selection-start="672" selection-end="672" vertical-scroll-proportion="0.0" vertical-offset="304" max-vertical-offset="1463">
+        <state line="31" column="21" selection-start="1235" selection-end="1235" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2622">
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/org.eclipse.mylyn.wikitext.mediawiki.core/src/org/eclipse/mylyn/internal/wikitext/mediawiki/core/tasks/WikiToDocTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1000" column="50" selection-start="32019" selection-end="32019" vertical-scroll-proportion="0.0" vertical-offset="17556" max-vertical-offset="18354">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/org.eclipse.mylyn.wikitext.confluence.core/src/org/eclipse/mylyn/internal/wikitext/confluence/core/phrase/SimplePhraseModifier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="0" selection-start="920" selection-end="920" vertical-scroll-proportion="0.0" vertical-offset="456" max-vertical-offset="570">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/org.eclipse.mylyn.wikitext.tests/src/org/eclipse/mylyn/internal/wikitext/ui/editor/syntax/MarkupTokenScannerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="29" selection-start="672" selection-end="672" vertical-scroll-proportion="0.0" vertical-offset="304" max-vertical-offset="1463" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/org.eclipse.mylyn.wikitext.tests/src/org/eclipse/mylyn/internal/wikitext/twiki/tests/TWikiLanguageTest.java">
@@ -434,9 +452,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/org.eclipse.mylyn.wikitext.core.maven/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1425">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1425" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/org.eclipse.mylyn.wikitext.core.maven/src/main/java/org/eclipse/mylyn/internal/wikitext/core/maven/MarkupToEclipseHelpMojo.java">
@@ -471,9 +487,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/org.eclipse.mylyn.wikitext.core.osgi/src/org/eclipse/mylyn/wikitext/core/osgi/OsgiServiceLocator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="20" selection-start="855" selection-end="855" vertical-scroll-proportion="-2.472585" vertical-offset="2122" max-vertical-offset="2888">
-          <folding />
-        </state>
+        <state line="21" column="20" selection-start="855" selection-end="855" vertical-scroll-proportion="-2.472585" vertical-offset="2122" max-vertical-offset="2888" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/org.eclipse.mylyn.wikitext.tests/src/org/eclipse/mylyn/internal/wikitext/twiki/tests/TWikiLanguageTest.java">
@@ -485,9 +499,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/org.eclipse.mylyn.wikitext.tests/src/org/eclipse/mylyn/internal/wikitext/ui/editor/syntax/MarkupTokenScannerTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="50" selection-start="965" selection-end="965" vertical-scroll-proportion="0.31707317" vertical-offset="0" max-vertical-offset="1463">
-          <folding />
-        </state>
+        <state line="22" column="50" selection-start="965" selection-end="965" vertical-scroll-proportion="0.31707317" vertical-offset="0" max-vertical-offset="1463" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/org.eclipse.mylyn.wikitext.html.tests/src/org/eclipse/mylyn/internal/wikitext/html/core/SubstitutionSpanStrategyTest.java">
@@ -499,25 +511,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/org.eclipse.mylyn.wikitext.html.core/src/org/eclipse/mylyn/internal/wikitext/html/core/BlockStrategies.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="50" selection-start="871" selection-end="871" vertical-scroll-proportion="0.29268292" vertical-offset="0" max-vertical-offset="1938">
-          <folding />
-        </state>
+        <state line="21" column="50" selection-start="871" selection-end="871" vertical-scroll-proportion="0.29268292" vertical-offset="0" max-vertical-offset="1938" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/org.eclipse.mylyn.wikitext.creole.tests/src/org/eclipse/mylyn/internal/wikitext/creole/tests/CreoleLanguageTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="46" selection-start="924" selection-end="924" vertical-scroll-proportion="0.24390244" vertical-offset="0" max-vertical-offset="4180">
-          <folding />
-        </state>
+        <state line="19" column="46" selection-start="924" selection-end="924" vertical-scroll-proportion="0.24390244" vertical-offset="0" max-vertical-offset="4180" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/org.eclipse.mylyn.wikitext.core.tests/src/org/eclipse/mylyn/internal/wikitext/core/test/EqualityAsserts.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="26" selection-start="1207" selection-end="1207" vertical-scroll-proportion="0.5365854" vertical-offset="0" max-vertical-offset="874">
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
+        <state line="31" column="26" selection-start="1207" selection-end="1207" vertical-scroll-proportion="0.5365854" vertical-offset="0" max-vertical-offset="874" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/org.eclipse.mylyn.wikitext.mediawiki.core/src/org/eclipse/mylyn/internal/wikitext/mediawiki/core/tasks/ConfigurationException.java">
@@ -529,56 +533,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/org.eclipse.mylyn.wikitext.core/src/org/eclipse/mylyn/internal/wikitext/core/parser/html/HtmlParser.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="31" selection-start="1099" selection-end="1099" vertical-scroll-proportion="-1.0487804" vertical-offset="1197" max-vertical-offset="3933">
-          <folding />
-        </state>
+        <state line="29" column="31" selection-start="1099" selection-end="1099" vertical-scroll-proportion="-1.0487804" vertical-offset="1197" max-vertical-offset="3933" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/org.eclipse.mylyn.wikitext.core.ant/src/org/eclipse/mylyn/internal/wikitext/core/ant/HtmlToMarkupTask.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="54" selection-start="1191" selection-end="1191" vertical-scroll-proportion="0.7931689" vertical-offset="0" max-vertical-offset="3762">
-          <folding>
-            <element signature="e#1628#1637#0" expanded="false" />
-          </folding>
-        </state>
+        <state line="31" column="54" selection-start="1191" selection-end="1191" vertical-scroll-proportion="0.7931689" vertical-offset="0" max-vertical-offset="3762" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/org.eclipse.mylyn.wikitext.markdown.tests/src/org/eclipse/mylyn/internal/wikitext/markdown/tests/LinkDefinitionValidationRuleTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="31" column="21" selection-start="1235" selection-end="1235" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2451">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/org.eclipse.mylyn.wikitext.core.maven/src/test/java/org/eclipse/mylyn/internal/wikitext/core/maven/SourceFileTraversalTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="13" column="25" selection-start="619" selection-end="619" vertical-scroll-proportion="0.09756097" vertical-offset="0" max-vertical-offset="1406">
-          <folding>
-            <marker date="1393039265516" expanded="false" signature="-1:-1" placeholder="/**...*/" />
-            <marker date="1393039265516" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1393039265516" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1393039265516" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1393039265516" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1393039265516" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1393039265516" expanded="true" signature="-1:-1" placeholder="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/org.eclipse.mylyn.wikitext.confluence.core/src/org/eclipse/mylyn/internal/wikitext/confluence/core/ConfluenceDocumentBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="31" selection-start="1184" selection-end="1184" vertical-scroll-proportion="0.46341464" vertical-offset="0" max-vertical-offset="9367">
-          <folding />
-        </state>
+        <state line="28" column="31" selection-start="1184" selection-end="1184" vertical-scroll-proportion="0.46341464" vertical-offset="0" max-vertical-offset="9367" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/org.eclipse.mylyn.docs.epub.core/src-gen/org/eclipse/mylyn/docs/epub/opf/Metadata.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="20" selection-start="112" selection-end="112" vertical-scroll-proportion="0.07317073" vertical-offset="0" max-vertical-offset="6346">
-          <folding />
-        </state>
+        <state line="8" column="20" selection-start="112" selection-end="112" vertical-scroll-proportion="0.07317073" vertical-offset="0" max-vertical-offset="6346" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/org.eclipse.mylyn.wikitext.confluence.core/src/org/eclipse/mylyn/internal/wikitext/confluence/core/phrase/SimplePhraseModifier.java">
@@ -599,7 +583,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/org.eclipse.mylyn.wikitext.mediawiki.core/src/org/eclipse/mylyn/internal/wikitext/mediawiki/core/tasks/WikiToDocTask.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1000" column="50" selection-start="32019" selection-end="32019" vertical-scroll-proportion="0.41976893" vertical-offset="16640" max-vertical-offset="18354">
+        <state line="1080" column="46" selection-start="33876" selection-end="33876" vertical-scroll-proportion="0.51732993" vertical-offset="17552" max-vertical-offset="18354">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
