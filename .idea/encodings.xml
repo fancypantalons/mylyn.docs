@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
+    <file url="file://$PROJECT_DIR$/org.eclipse.mylyn.docs.epub.ant.core" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/org.eclipse.mylyn.docs.epub.core" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/org.eclipse.mylyn.docs.epub.help" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/org.eclipse.mylyn.docs.epub.tests" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/org.eclipse.mylyn.docs.epub.ui" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/org.eclipse.mylyn.htmltext.ui" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/org.eclipse.mylyn.wikitext.confluence.core" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/org.eclipse.mylyn.wikitext.confluence.ui" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/org.eclipse.mylyn.wikitext.context.ui" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/org.eclipse.mylyn.wikitext.core" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/org.eclipse.mylyn.wikitext.core.ant" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/org.eclipse.mylyn.wikitext.core.maven" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/org.eclipse.mylyn.wikitext.core.osgi" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/org.eclipse.mylyn.wikitext.core.osgi.tests" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/org.eclipse.mylyn.wikitext.core.tests" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/org.eclipse.mylyn.wikitext.creole.core" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/org.eclipse.mylyn.wikitext.creole.tests" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/org.eclipse.mylyn.wikitext.creole.ui" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/org.eclipse.mylyn.wikitext.help.sdk" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/org.eclipse.mylyn.wikitext.help.ui" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/org.eclipse.mylyn.wikitext.html.core" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/org.eclipse.mylyn.wikitext.html.tests" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/org.eclipse.mylyn.wikitext.markdown.core" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/org.eclipse.mylyn.wikitext.markdown.tests" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/org.eclipse.mylyn.wikitext.markdown.ui" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/org.eclipse.mylyn.wikitext.mediawiki.core" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/org.eclipse.mylyn.wikitext.mediawiki.ui" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/org.eclipse.mylyn.wikitext.tasks.ui" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/org.eclipse.mylyn.wikitext.tests" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/org.eclipse.mylyn.wikitext.textile.core" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/org.eclipse.mylyn.wikitext.textile.ui" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/org.eclipse.mylyn.wikitext.tracwiki.core" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/org.eclipse.mylyn.wikitext.tracwiki.ui" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/org.eclipse.mylyn.wikitext.twiki.core" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/org.eclipse.mylyn.wikitext.twiki.ui" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/org.eclipse.mylyn.wikitext.ui" charset="ISO-8859-1" />
+  </component>
+</project>
+

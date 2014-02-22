@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EntryPointsManager">
+    <entry_points version="2.0" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/org.eclipse.mylyn.docs-site/pom.xml" />
+        <option value="$PROJECT_DIR$/org.eclipse.mylyn.docs.epub.ant.core/pom.xml" />
+        <option value="$PROJECT_DIR$/org.eclipse.mylyn.docs.epub.core/pom.xml" />
+        <option value="$PROJECT_DIR$/org.eclipse.mylyn.docs.epub.help/pom.xml" />
+        <option value="$PROJECT_DIR$/org.eclipse.mylyn.docs.epub.tests/pom.xml" />
+        <option value="$PROJECT_DIR$/org.eclipse.mylyn.docs.epub.ui/pom.xml" />
+        <option value="$PROJECT_DIR$/org.eclipse.mylyn.htmltext.ui/pom.xml" />
+        <option value="$PROJECT_DIR$/org.eclipse.mylyn.wikitext.confluence.ui/pom.xml" />
+        <option value="$PROJECT_DIR$/org.eclipse.mylyn.wikitext.context.ui/pom.xml" />
+        <option value="$PROJECT_DIR$/org.eclipse.mylyn.wikitext.core.osgi.tests/pom.xml" />
+        <option value="$PROJECT_DIR$/org.eclipse.mylyn.wikitext.core.tests/pom.xml" />
+        <option value="$PROJECT_DIR$/org.eclipse.mylyn.wikitext.creole.tests/pom.xml" />
+        <option value="$PROJECT_DIR$/org.eclipse.mylyn.wikitext.creole.ui/pom.xml" />
+        <option value="$PROJECT_DIR$/org.eclipse.mylyn.wikitext.help.sdk/pom.xml" />
+        <option value="$PROJECT_DIR$/org.eclipse.mylyn.wikitext.help.ui/pom.xml" />
+        <option value="$PROJECT_DIR$/org.eclipse.mylyn.wikitext.html.tests/pom.xml" />
+        <option value="$PROJECT_DIR$/org.eclipse.mylyn.wikitext.markdown.tests/pom.xml" />
+        <option value="$PROJECT_DIR$/org.eclipse.mylyn.wikitext.markdown.ui/pom.xml" />
+        <option value="$PROJECT_DIR$/org.eclipse.mylyn.wikitext.mediawiki.ui/pom.xml" />
+        <option value="$PROJECT_DIR$/org.eclipse.mylyn.wikitext.tasks.ui/pom.xml" />
+        <option value="$PROJECT_DIR$/org.eclipse.mylyn.wikitext.tests/pom.xml" />
+        <option value="$PROJECT_DIR$/org.eclipse.mylyn.wikitext.textile.ui/pom.xml" />
+        <option value="$PROJECT_DIR$/org.eclipse.mylyn.wikitext.tracwiki.ui/pom.xml" />
+        <option value="$PROJECT_DIR$/org.eclipse.mylyn.wikitext.twiki.ui/pom.xml" />
+        <option value="$PROJECT_DIR$/org.eclipse.mylyn.wikitext.ui/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true" project-jdk-name="1.6" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
+

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/org.eclipse.mylyn.docs-parent.iml" filepath="$PROJECT_DIR$/org.eclipse.mylyn.docs-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/org.eclipse.mylyn.docs.epub-feature/org.eclipse.mylyn.docs.epub.iml" filepath="$PROJECT_DIR$/org.eclipse.mylyn.docs.epub-feature/org.eclipse.mylyn.docs.epub.iml" />
+      <module fileurl="file://$PROJECT_DIR$/org.eclipse.mylyn.docs.epub.sdk-feature/org.eclipse.mylyn.docs.epub.sdk.iml" filepath="$PROJECT_DIR$/org.eclipse.mylyn.docs.epub.sdk-feature/org.eclipse.mylyn.docs.epub.sdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/org.eclipse.mylyn.docs.sdk-feature/org.eclipse.mylyn.docs.sdk.iml" filepath="$PROJECT_DIR$/org.eclipse.mylyn.docs.sdk-feature/org.eclipse.mylyn.docs.sdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/org.eclipse.mylyn.htmltext-feature/org.eclipse.mylyn.htmltext.iml" filepath="$PROJECT_DIR$/org.eclipse.mylyn.htmltext-feature/org.eclipse.mylyn.htmltext.iml" />
+      <module fileurl="file://$PROJECT_DIR$/org.eclipse.mylyn.wikitext-standalone/org.eclipse.mylyn.wikitext-standalone.iml" filepath="$PROJECT_DIR$/org.eclipse.mylyn.wikitext-standalone/org.eclipse.mylyn.wikitext-standalone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/org.eclipse.mylyn.wikitext.confluence.core/org.eclipse.mylyn.wikitext.confluence.core.iml" filepath="$PROJECT_DIR$/org.eclipse.mylyn.wikitext.confluence.core/org.eclipse.mylyn.wikitext.confluence.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/org.eclipse.mylyn.wikitext.core/org.eclipse.mylyn.wikitext.core.iml" filepath="$PROJECT_DIR$/org.eclipse.mylyn.wikitext.core/org.eclipse.mylyn.wikitext.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/org.eclipse.mylyn.wikitext.core.ant/org.eclipse.mylyn.wikitext.core.ant.iml" filepath="$PROJECT_DIR$/org.eclipse.mylyn.wikitext.core.ant/org.eclipse.mylyn.wikitext.core.ant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/org.eclipse.mylyn.wikitext.core.maven/org.eclipse.mylyn.wikitext.core.maven.iml" filepath="$PROJECT_DIR$/org.eclipse.mylyn.wikitext.core.maven/org.eclipse.mylyn.wikitext.core.maven.iml" />
+      <module fileurl="file://$PROJECT_DIR$/org.eclipse.mylyn.wikitext.core.osgi/org.eclipse.mylyn.wikitext.core.osgi.iml" filepath="$PROJECT_DIR$/org.eclipse.mylyn.wikitext.core.osgi/org.eclipse.mylyn.wikitext.core.osgi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/org.eclipse.mylyn.wikitext.creole.core/org.eclipse.mylyn.wikitext.creole.core.iml" filepath="$PROJECT_DIR$/org.eclipse.mylyn.wikitext.creole.core/org.eclipse.mylyn.wikitext.creole.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/org.eclipse.mylyn.wikitext.extras-feature/org.eclipse.mylyn.wikitext.extras.iml" filepath="$PROJECT_DIR$/org.eclipse.mylyn.wikitext.extras-feature/org.eclipse.mylyn.wikitext.extras.iml" />
+      <module fileurl="file://$PROJECT_DIR$/org.eclipse.mylyn.wikitext.html.core/org.eclipse.mylyn.wikitext.html.core.iml" filepath="$PROJECT_DIR$/org.eclipse.mylyn.wikitext.html.core/org.eclipse.mylyn.wikitext.html.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/org.eclipse.mylyn.wikitext.markdown.core/org.eclipse.mylyn.wikitext.markdown.core.iml" filepath="$PROJECT_DIR$/org.eclipse.mylyn.wikitext.markdown.core/org.eclipse.mylyn.wikitext.markdown.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/org.eclipse.mylyn.wikitext.mediawiki.core/org.eclipse.mylyn.wikitext.mediawiki.core.iml" filepath="$PROJECT_DIR$/org.eclipse.mylyn.wikitext.mediawiki.core/org.eclipse.mylyn.wikitext.mediawiki.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/org.eclipse.mylyn.wikitext.sdk-feature/org.eclipse.mylyn.wikitext.sdk.iml" filepath="$PROJECT_DIR$/org.eclipse.mylyn.wikitext.sdk-feature/org.eclipse.mylyn.wikitext.sdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/org.eclipse.mylyn.wikitext.textile.core/org.eclipse.mylyn.wikitext.textile.core.iml" filepath="$PROJECT_DIR$/org.eclipse.mylyn.wikitext.textile.core/org.eclipse.mylyn.wikitext.textile.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/org.eclipse.mylyn.wikitext.tracwiki.core/org.eclipse.mylyn.wikitext.tracwiki.core.iml" filepath="$PROJECT_DIR$/org.eclipse.mylyn.wikitext.tracwiki.core/org.eclipse.mylyn.wikitext.tracwiki.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/org.eclipse.mylyn.wikitext.twiki.core/org.eclipse.mylyn.wikitext.twiki.core.iml" filepath="$PROJECT_DIR$/org.eclipse.mylyn.wikitext.twiki.core/org.eclipse.mylyn.wikitext.twiki.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/org.eclipse.mylyn.wikitext-feature/org.eclipse.mylyn.wikitext_feature.iml" filepath="$PROJECT_DIR$/org.eclipse.mylyn.wikitext-feature/org.eclipse.mylyn.wikitext_feature.iml" />
+    </modules>
+  </component>
+</project>
+
