@@ -9,69 +9,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9d97b4cf-a9e5-4bc7-8fd4-a0329e39b04f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_12_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_artifact_3_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_model_3_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_plugin_api_3_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_classworlds_2_2_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_component_annotations_1_5_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_utils_2_0_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_1_8_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_sonatype_sisu_sisu_guice_noaop_2_1_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_sonatype_sisu_sisu_inject_bean_1_4_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_sonatype_sisu_sisu_inject_plexus_1_4_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/org.eclipse.mylyn.docs-parent.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/org.eclipse.mylyn.docs-site/org.eclipse.mylyn.docs-site.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/org.eclipse.mylyn.docs.epub.ant.core/org.eclipse.mylyn.docs.epub.ant.core.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/org.eclipse.mylyn.docs.epub.core/org.eclipse.mylyn.docs.epub.core.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/org.eclipse.mylyn.docs.epub.help/org.eclipse.mylyn.docs.epub.help.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/org.eclipse.mylyn.docs.epub-feature/org.eclipse.mylyn.docs.epub.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/org.eclipse.mylyn.docs.epub.sdk-feature/org.eclipse.mylyn.docs.epub.sdk.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/org.eclipse.mylyn.docs.epub.tests/org.eclipse.mylyn.docs.epub.tests.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/org.eclipse.mylyn.docs.epub.ui/org.eclipse.mylyn.docs.epub.ui.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/org.eclipse.mylyn.docs.sdk-feature/org.eclipse.mylyn.docs.sdk.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/org.eclipse.mylyn.htmltext-feature/org.eclipse.mylyn.htmltext.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/org.eclipse.mylyn.htmltext.ui/org.eclipse.mylyn.htmltext.ui.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/org.eclipse.mylyn.wikitext-standalone/org.eclipse.mylyn.wikitext-standalone.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/org.eclipse.mylyn.wikitext.confluence.core/org.eclipse.mylyn.wikitext.confluence.core.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/org.eclipse.mylyn.wikitext.confluence.ui/org.eclipse.mylyn.wikitext.confluence.ui.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/org.eclipse.mylyn.wikitext.context.ui/org.eclipse.mylyn.wikitext.context.ui.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/org.eclipse.mylyn.wikitext.core.ant/org.eclipse.mylyn.wikitext.core.ant.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/org.eclipse.mylyn.wikitext.core/org.eclipse.mylyn.wikitext.core.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/org.eclipse.mylyn.wikitext.core.maven/org.eclipse.mylyn.wikitext.core.maven.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/org.eclipse.mylyn.wikitext.core.osgi/org.eclipse.mylyn.wikitext.core.osgi.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/org.eclipse.mylyn.wikitext.core.osgi.tests/org.eclipse.mylyn.wikitext.core.osgi.tests.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/org.eclipse.mylyn.wikitext.core.tests/org.eclipse.mylyn.wikitext.core.tests.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/org.eclipse.mylyn.wikitext.creole.core/org.eclipse.mylyn.wikitext.creole.core.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/org.eclipse.mylyn.wikitext.creole.tests/org.eclipse.mylyn.wikitext.creole.tests.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/org.eclipse.mylyn.wikitext.creole.ui/org.eclipse.mylyn.wikitext.creole.ui.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/org.eclipse.mylyn.wikitext.extras-feature/org.eclipse.mylyn.wikitext.extras.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/org.eclipse.mylyn.wikitext.help.sdk/org.eclipse.mylyn.wikitext.help.sdk.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/org.eclipse.mylyn.wikitext.help.ui/org.eclipse.mylyn.wikitext.help.ui.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/org.eclipse.mylyn.wikitext.html.core/org.eclipse.mylyn.wikitext.html.core.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/org.eclipse.mylyn.wikitext.html.tests/org.eclipse.mylyn.wikitext.html.tests.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/org.eclipse.mylyn.wikitext.markdown.core/org.eclipse.mylyn.wikitext.markdown.core.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/org.eclipse.mylyn.wikitext.markdown.tests/org.eclipse.mylyn.wikitext.markdown.tests.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/org.eclipse.mylyn.wikitext.markdown.ui/org.eclipse.mylyn.wikitext.markdown.ui.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/org.eclipse.mylyn.wikitext.mediawiki.core/org.eclipse.mylyn.wikitext.mediawiki.core.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/org.eclipse.mylyn.wikitext.mediawiki.ui/org.eclipse.mylyn.wikitext.mediawiki.ui.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/org.eclipse.mylyn.wikitext.sdk-feature/org.eclipse.mylyn.wikitext.sdk.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/org.eclipse.mylyn.wikitext.tasks.ui/org.eclipse.mylyn.wikitext.tasks.ui.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/org.eclipse.mylyn.wikitext.tests/org.eclipse.mylyn.wikitext.tests.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/org.eclipse.mylyn.wikitext.textile.core/org.eclipse.mylyn.wikitext.textile.core.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/org.eclipse.mylyn.wikitext.textile.ui/org.eclipse.mylyn.wikitext.textile.ui.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/org.eclipse.mylyn.wikitext.tracwiki.core/org.eclipse.mylyn.wikitext.tracwiki.core.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/org.eclipse.mylyn.wikitext.tracwiki.ui/org.eclipse.mylyn.wikitext.tracwiki.ui.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/org.eclipse.mylyn.wikitext.twiki.core/org.eclipse.mylyn.wikitext.twiki.core.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/org.eclipse.mylyn.wikitext.twiki.ui/org.eclipse.mylyn.wikitext.twiki.ui.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/org.eclipse.mylyn.wikitext.ui/org.eclipse.mylyn.wikitext.ui.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/org.eclipse.mylyn.wikitext-feature/org.eclipse.mylyn.wikitext_feature.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/org_apache_ant_ant_1_8_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/org_jsoup_jsoup_1_7_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/org_osgi_core_4_3_0.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/artifacts/org_eclipse_mylyn_wikitext_core_ant_jar.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/org.eclipse.mylyn.wikitext.mediawiki.core/src/org/eclipse/mylyn/internal/wikitext/mediawiki/core/AbstractMediaWikiLanguage.java" afterPath="$PROJECT_DIR$/org.eclipse.mylyn.wikitext.mediawiki.core/src/org/eclipse/mylyn/internal/wikitext/mediawiki/core/AbstractMediaWikiLanguage.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/org.eclipse.mylyn.wikitext.mediawiki.core/src/org/eclipse/mylyn/internal/wikitext/mediawiki/core/token/HyperlinkExternalReplacementToken.java" afterPath="$PROJECT_DIR$/org.eclipse.mylyn.wikitext.mediawiki.core/src/org/eclipse/mylyn/internal/wikitext/mediawiki/core/token/HyperlinkExternalReplacementToken.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/org.eclipse.mylyn.wikitext.mediawiki.core/src/org/eclipse/mylyn/internal/wikitext/mediawiki/core/token/HyperlinkInternalReplacementToken.java" afterPath="$PROJECT_DIR$/org.eclipse.mylyn.wikitext.mediawiki.core/src/org/eclipse/mylyn/internal/wikitext/mediawiki/core/token/HyperlinkInternalReplacementToken.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/org.eclipse.mylyn.wikitext.mediawiki.core/src/org/eclipse/mylyn/internal/wikitext/mediawiki/core/tasks/ImageFetchingStrategy.java" afterPath="$PROJECT_DIR$/org.eclipse.mylyn.wikitext.mediawiki.core/src/org/eclipse/mylyn/internal/wikitext/mediawiki/core/tasks/ImageFetchingStrategy.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/org.eclipse.mylyn.wikitext.mediawiki.core/src/org/eclipse/mylyn/internal/wikitext/mediawiki/core/token/ImageReplacementToken.java" afterPath="$PROJECT_DIR$/org.eclipse.mylyn.wikitext.mediawiki.core/src/org/eclipse/mylyn/internal/wikitext/mediawiki/core/token/ImageReplacementToken.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/org.eclipse.mylyn.wikitext.mediawiki.core/src/org/eclipse/mylyn/wikitext/mediawiki/core/MediaWikiLanguage.java" afterPath="$PROJECT_DIR$/org.eclipse.mylyn.wikitext.mediawiki.core/src/org/eclipse/mylyn/wikitext/mediawiki/core/MediaWikiLanguage.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="org.eclipse.mylyn.docs-parent.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -145,19 +90,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WikiToDocTask.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="WikiToDocTask.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/org.eclipse.mylyn.wikitext.mediawiki.core/src/org/eclipse/mylyn/internal/wikitext/mediawiki/core/tasks/WikiToDocTask.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="38" column="53" selection-start="1360" selection-end="1360" vertical-scroll-proportion="0.0" vertical-offset="376" max-vertical-offset="18354">
-              <folding />
+            <state line="1000" column="50" selection-start="32019" selection-end="32019" vertical-scroll-proportion="0.41976893" vertical-offset="16640" max-vertical-offset="18354">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SimplePhraseModifier.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="SimplePhraseModifier.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/org.eclipse.mylyn.wikitext.confluence.core/src/org/eclipse/mylyn/internal/wikitext/confluence/core/phrase/SimplePhraseModifier.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="0" selection-start="920" selection-end="920" vertical-scroll-proportion="0.37206265" vertical-offset="0" max-vertical-offset="766">
+            <state line="24" column="0" selection-start="920" selection-end="920" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="399">
               <folding />
             </state>
           </provider>
@@ -181,6 +128,7 @@
         <option value="$PROJECT_DIR$/org.eclipse.mylyn.wikitext.tests/src/org/eclipse/mylyn/internal/wikitext/twiki/tests/TWikiLanguageTest.java" />
         <option value="$PROJECT_DIR$/org.eclipse.mylyn.wikitext.html.tests/src/org/eclipse/mylyn/internal/wikitext/html/core/SubstitutionSpanStrategyTest.java" />
         <option value="$PROJECT_DIR$/org.eclipse.mylyn.wikitext.html.core/src/org/eclipse/mylyn/internal/wikitext/html/core/BlockStrategies.java" />
+        <option value="$PROJECT_DIR$/org.eclipse.mylyn.wikitext.mediawiki.core/src/org/eclipse/mylyn/internal/wikitext/mediawiki/core/tasks/WikiToDocTask.java" />
       </list>
     </option>
   </component>
@@ -415,7 +363,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.504298" sideWeight="0.6007463" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.50358164" sideWeight="0.6007463" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18238214" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -514,13 +462,6 @@
     <entry file="file://$PROJECT_DIR$/org.eclipse.mylyn.wikitext.twiki.core/src/org/eclipse/mylyn/internal/wikitext/twiki/core/validation/TWikiReferenceValidationRule.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="13" column="52" selection-start="654" selection-end="654" vertical-scroll-proportion="0.09756097" vertical-offset="0" max-vertical-offset="779" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/org.eclipse.mylyn.wikitext.core/src/org/eclipse/mylyn/wikitext/core/parser/markup/MarkupLanguage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="36" selection-start="625" selection-end="625" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3325">
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/org.eclipse.mylyn.wikitext.tracwiki.core/src/org/eclipse/mylyn/internal/wikitext/tracwiki/core/phrase/SimpleWrappedPhraseModifier.java">
@@ -626,13 +567,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/org.eclipse.mylyn.wikitext.mediawiki.core/src/org/eclipse/mylyn/internal/wikitext/mediawiki/core/tasks/WikiToDocTask.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="53" selection-start="1360" selection-end="1360" vertical-scroll-proportion="0.0" vertical-offset="376" max-vertical-offset="18354">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/org.eclipse.mylyn.wikitext.confluence.core/src/org/eclipse/mylyn/internal/wikitext/confluence/core/ConfluenceDocumentBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="28" column="31" selection-start="1184" selection-end="1184" vertical-scroll-proportion="0.46341464" vertical-offset="0" max-vertical-offset="9367">
@@ -649,8 +583,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/org.eclipse.mylyn.wikitext.confluence.core/src/org/eclipse/mylyn/internal/wikitext/confluence/core/phrase/SimplePhraseModifier.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="0" selection-start="920" selection-end="920" vertical-scroll-proportion="0.37206265" vertical-offset="0" max-vertical-offset="766">
+        <state line="24" column="0" selection-start="920" selection-end="920" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="399">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/org.eclipse.mylyn.wikitext.core/src/org/eclipse/mylyn/wikitext/core/parser/markup/MarkupLanguage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="79" column="5" selection-start="3159" selection-end="3159" vertical-scroll-proportion="0.8292683" vertical-offset="646" max-vertical-offset="3325">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/org.eclipse.mylyn.wikitext.mediawiki.core/src/org/eclipse/mylyn/internal/wikitext/mediawiki/core/tasks/WikiToDocTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1000" column="50" selection-start="32019" selection-end="32019" vertical-scroll-proportion="0.41976893" vertical-offset="16640" max-vertical-offset="18354">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -660,7 +612,7 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
-          <last-edited>org.eclipse.mylyn.wikitext.core.ant:jar</last-edited>
+          <last-edited>org.eclipse.mylyn.wikitext.core:jar</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
