@@ -52,7 +52,7 @@ abstract class ImageFetchingStrategy {
 	}
 
 	public void log(String msg, Throwable t, int msgLevel) {
-		task.log(msg, t, msgLevel);
+		task.log(msg, msgLevel);
 	}
 
 	public void log(String msg) {
@@ -60,7 +60,7 @@ abstract class ImageFetchingStrategy {
 	}
 
 	public void log(Throwable t, int msgLevel) {
-		task.log(t, msgLevel);
+		task.log(t.toString(), msgLevel);
 	}
 
 	public File getDest() {

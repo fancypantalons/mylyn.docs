@@ -10,7 +10,6 @@
  *******************************************************************************/
 package org.eclipse.mylyn.internal.wikitext.mediawiki.core.token;
 
-import org.eclipse.mylyn.wikitext.core.parser.Attributes;
 import org.eclipse.mylyn.wikitext.core.parser.LinkAttributes;
 import org.eclipse.mylyn.wikitext.core.parser.markup.PatternBasedElement;
 import org.eclipse.mylyn.wikitext.core.parser.markup.PatternBasedElementProcessor;
@@ -43,7 +42,8 @@ public class HyperlinkInternalReplacementToken extends PatternBasedElement {
 		public void emit() {
 			String pageName = group(1);
 			String altText = group(2);
-			String href = ((MediaWikiLanguage) getMarkupLanguage()).toInternalHref(pageName.replace(' ', '_'));
+			//String href = ((MediaWikiLanguage) getMarkupLanguage()).toInternalHref(pageName.replace(' ', '_'));
+            String href = ((MediaWikiLanguage) getMarkupLanguage()).toInternalHref(pageName);
 
 			// category references start with ':' but are not referenced that way in the text
 			if (pageName.startsWith(":")) { //$NON-NLS-1$
@@ -58,8 +58,9 @@ public class HyperlinkInternalReplacementToken extends PatternBasedElement {
 			if (pageName.startsWith("#")) { //$NON-NLS-1$
 				builder.link(href, altText);
 			} else {
-				Attributes attributes = new LinkAttributes();
+				LinkAttributes attributes = new LinkAttributes();
 				attributes.setTitle(pageName);
+                attributes.setRel("internal");
 				builder.link(attributes, href, altText);
 			}
 		}

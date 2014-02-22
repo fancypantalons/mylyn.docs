@@ -10,6 +10,7 @@
  *******************************************************************************/
 package org.eclipse.mylyn.internal.wikitext.mediawiki.core.token;
 
+import org.eclipse.mylyn.wikitext.core.parser.LinkAttributes;
 import org.eclipse.mylyn.wikitext.core.parser.markup.PatternBasedElement;
 import org.eclipse.mylyn.wikitext.core.parser.markup.PatternBasedElementProcessor;
 
@@ -44,7 +45,13 @@ public class HyperlinkExternalReplacementToken extends PatternBasedElement {
 			if (altText == null || altText.trim().length() == 0) {
 				altText = href;
 			}
-			builder.link(href, altText);
+
+            LinkAttributes attributes = new LinkAttributes();
+
+            attributes.setTitle(altText);
+            attributes.setRel("external");
+
+			builder.link(attributes, href, altText);
 		}
 	}
 

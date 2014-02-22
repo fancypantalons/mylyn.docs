@@ -50,7 +50,8 @@ public abstract class AbstractMediaWikiLanguage extends AbstractMarkupLanguage {
 				return mapping;
 			}
 		}
-		String pageId = pageName.replace(' ', '_');
+		// String pageId = pageName.replace(' ', '_');
+        String pageId = pageName;
 		// FIXME: other character encodings occur here, not just ' '
 
 		if (pageId.startsWith(CATEGORY_PREFIX) && pageId.length() > CATEGORY_PREFIX.length()) { // category

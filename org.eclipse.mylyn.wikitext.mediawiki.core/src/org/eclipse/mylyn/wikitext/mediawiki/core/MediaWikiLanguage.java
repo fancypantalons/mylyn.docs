@@ -28,10 +28,7 @@ import org.eclipse.mylyn.internal.wikitext.mediawiki.core.block.TableBlock;
 import org.eclipse.mylyn.internal.wikitext.mediawiki.core.block.TableOfContentsBlock;
 import org.eclipse.mylyn.internal.wikitext.mediawiki.core.phrase.EscapePhraseModifier;
 import org.eclipse.mylyn.internal.wikitext.mediawiki.core.phrase.SimplePhraseModifier;
-import org.eclipse.mylyn.internal.wikitext.mediawiki.core.token.HyperlinkExternalReplacementToken;
-import org.eclipse.mylyn.internal.wikitext.mediawiki.core.token.HyperlinkInternalReplacementToken;
-import org.eclipse.mylyn.internal.wikitext.mediawiki.core.token.ImageReplacementToken;
-import org.eclipse.mylyn.internal.wikitext.mediawiki.core.token.LineBreakToken;
+import org.eclipse.mylyn.internal.wikitext.mediawiki.core.token.*;
 import org.eclipse.mylyn.wikitext.core.parser.DocumentBuilder.SpanType;
 import org.eclipse.mylyn.wikitext.core.parser.markup.Block;
 import org.eclipse.mylyn.wikitext.core.parser.markup.IdGenerationStrategy;
@@ -61,7 +58,7 @@ public class MediaWikiLanguage extends AbstractMediaWikiLanguage {
 
 	public MediaWikiLanguage() {
 		setName("MediaWiki"); //$NON-NLS-1$
-		setInternalLinkPattern("/wiki/{0}"); //$NON-NLS-1$
+		setInternalLinkPattern("{0}"); //$NON-NLS-1$
 
 		templateProviders.add(new BuiltInTemplateResolver());
 	}
@@ -155,6 +152,8 @@ public class MediaWikiLanguage extends AbstractMediaWikiLanguage {
 		tokenSyntax.add(new ImpliedHyperlinkReplacementToken());
 		tokenSyntax.add(new PatternLiteralReplacementToken("(?:(?<=^|\\w\\s)(----)(?=$|\\s\\w))", "<hr/>")); // horizontal rule //$NON-NLS-1$ //$NON-NLS-2$
 		tokenSyntax.add(new org.eclipse.mylyn.internal.wikitext.mediawiki.core.token.EntityReferenceReplacementToken());
+        tokenSyntax.add(new UdfReplacementToken());
+        tokenSyntax.add(new PropertyReplacementToken());
 	}
 
 	@Override
