@@ -154,6 +154,7 @@ public class MediaWikiLanguage extends AbstractMediaWikiLanguage {
 		tokenSyntax.add(new org.eclipse.mylyn.internal.wikitext.mediawiki.core.token.EntityReferenceReplacementToken());
         tokenSyntax.add(new UdfReplacementToken());
         tokenSyntax.add(new PropertyReplacementToken());
+		tokenSyntax.add(new TransclusionReplacemenToken());
 	}
 
 	@Override
